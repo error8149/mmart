@@ -43,6 +43,8 @@
       "last 1 safari version"
     ]
   },
+  "homepage": "https://error8149.github.io/mmart",
+
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "gh-pages": "^6.1.1",
