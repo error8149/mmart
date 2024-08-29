@@ -13,7 +13,7 @@ root.render(
   <CartProvider>
   <ProductProvider>
   <React.StrictMode>
-    <Router>
+    <Router basename="/mmart">
     <App />
     </Router>
   </React.StrictMode>
