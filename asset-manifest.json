@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mmart/static/css/main.575f7912.css",
-    "main.js": "/mmart/static/js/main.37e46d64.js",
+    "main.js": "/mmart/static/js/main.e264c199.js",
     "static/media/bg.gif": "/mmart/static/media/bg.4512a6a56e1440e87cda.gif",
     "static/media/google.png": "/mmart/static/media/google.9d7f54982c7d6004b601.png",
     "static/media/fb.png": "/mmart/static/media/fb.6c32263e014cae10f012.png",
     "static/media/ism.png": "/mmart/static/media/ism.2313617d3f469a707947.png",
     "index.html": "/mmart/index.html",
     "main.575f7912.css.map": "/mmart/static/css/main.575f7912.css.map",
-    "main.37e46d64.js.map": "/mmart/static/js/main.37e46d64.js.map"
+    "main.e264c199.js.map": "/mmart/static/js/main.e264c199.js.map"
   },
   "entrypoints": [
     "static/css/main.575f7912.css",
-    "static/js/main.37e46d64.js"
+    "static/js/main.e264c199.js"
   ]
 }
